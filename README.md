@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md. Tawhidul Islam</h1>
 
 <h3 align="center">
-Java Developer | Spring Boot | Microservices | Angular
+Senior Software Engineer | Java | Spring Boot | Microservices | Angular
 </h3>
 
 <p align="center">
@@ -20,10 +20,10 @@ Java Developer | Spring Boot | Microservices | Angular
 
 ## 👨‍💻 About Me
 
-- 💼 Software Developer at **ADDIE Soft Ltd.** since 2022
+- 💼 Senior Software Engineer at **ADDIE Soft Ltd.** since 2022
 - 🔭 Working on **enterprise Java applications, REST APIs, and microservice-based systems**
-- 🌱 Currently learning and working with **Advanced Spring Security, Microservices, Redis, Kafka, Docker, Kubernetes, and distributed systems**
-- 💬 Ask me about **Java, Spring Boot, Spring Security, REST APIs, Angular, PostgreSQL, and enterprise application development**
+- 🌱 Currently learning and working with **Advanced Spring Security, Microservices, Redis, Kafka, Docker, Kubernetes,AWS and distributed systems**
+- 💬 Ask me about **Java, Spring Boot, Spring Security, REST APIs, Angular, PostgreSQL,Redis, and enterprise application development**
 - 📫 Reach me at **islamtawhidul910@gmail.com**
 - 🇧🇩 Based in **Bangladesh**
 
@@ -50,25 +50,34 @@ Java Developer | Spring Boot | Microservices | Angular
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ## 🌱 Backend Development
 
+## Backend Development
+
 <p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge" />
 </p>
 
 ## 🏗️ Architecture & Design
 
+## Architecture & Design
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Monolithic%20Architecture-6E6E6E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Modular%20Architecture-4B8BBE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Microservices%20Architecture-FF6F00?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SOLID%20Principles-2E8B57?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Design%20Patterns-4B0082?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Clean%20Code-1E90FF?style=for-the-badge" />
@@ -87,11 +96,11 @@ Java Developer | Spring Boot | Microservices | Angular
 
 <p align="left">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular%2019-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
 ## 🗄️ Databases
@@ -110,7 +119,6 @@ Java Developer | Spring Boot | Microservices | Angular
   <img src="https://img.shields.io/badge/Normalization-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Stored%20Procedures-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Functions-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Triggers-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ## 📨 Messaging & Caching
@@ -126,7 +134,7 @@ Java Developer | Spring Boot | Microservices | Angular
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
 
 ## 🔧 Build & Version Control
@@ -151,7 +159,7 @@ Java Developer | Spring Boot | Microservices | Angular
 
 <p align="left">
   <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mockito-78C257?style=for-the-badge" />
 </p>
 
 ## 📊 Reporting & Document Generation
@@ -167,9 +175,52 @@ Java Developer | Spring Boot | Microservices | Angular
 
 # 🚀 Featured Projects
 
-## ✈️ Flight Profitability System
+## ✈️ Flight Profitability & Budgeting System (FPBS)
+**Biman Bangladesh Airlines**
 
-Enterprise airline profitability platform supporting budgeting, forecasting, flight profitability analysis, financial processing, and reporting.
+Enterprise-level flight profitability, budgeting, forecasting, workflow management, and dynamic reporting system.
+
+**Technologies:**
+
+`Java` `Spring Boot` `Spring Data JPA` `PostgreSQL` `Angular` `Thymeleaf` `JasperReports`
+
+---
+
+## 🛫 Digital Flight Log System
+**Biman Bangladesh Airlines**
+
+Enterprise aviation system supporting cockpit crew, cabin crew, and journey log management workflows.
+
+**Technologies:**
+
+`Java` `Spring Boot` `PostgreSQL` `Angular`
+
+---
+
+## 🎓 Result & Hall Management System
+**University of Rajshahi**
+
+Enterprise system supporting result processing, result publishing workflows, hall management, and reporting.
+
+**Technologies:**
+
+`Java` `Spring Boot` `Spring Data JPA` `PostgreSQL` `Angular` `Thymeleaf` `JasperReports`
+
+---
+
+## 🏫 Bidyapith Educational Management System
+
+Enterprise educational institution management system supporting institutional management modules and business workflows.
+
+**Technologies:**
+
+`Java` `Spring Boot` `Spring Data JPA` `PostgreSQL` `Angular` `Thymeleaf` `JasperReports`
+
+---
+
+## 💳 Pay2Fee Payment Gateway System
+
+Payment gateway system supporting payment-related modules and business workflows.
 
 **Technologies:**
 
@@ -177,29 +228,11 @@ Enterprise airline profitability platform supporting budgeting, forecasting, fli
 
 ---
 
-## 🏗️ Spring Boot Microservices Architecture
-
-Hands-on microservices architecture involving authentication, API Gateway, service discovery, configuration management, Redis, Kafka, resilience, Docker, and Kubernetes.
-
-**Technologies:**
-
-`Java` `Spring Boot` `Spring Security` `JWT` `Redis` `Kafka` `Docker` `Kubernetes`
-
----
-
-## 🌐 Airport Public API
-
-A REST API designed to provide airport information using IATA codes, including airport name, country, city, currency, ICAO code, coordinates, and time-zone information.
-
-**Technologies:**
-
-`Java` `Spring Boot` `REST API` `OpenAPI` `Docker`
-
----
 
 # 📚 Currently Learning
 
 <p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
   <img src="https://img.shields.io/badge/Advanced%20Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
   <img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
@@ -226,11 +259,6 @@ A REST API designed to provide airport information using IATA codes, including a
 # 🌐 Connect With Me
 
 <p align="left">
-
-<a href="https://github.com/Tawhidul94" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
 <a href="https://www.linkedin.com/in/tawhidul62/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
